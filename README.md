@@ -30,6 +30,6 @@ Proyek ini membuat model klasifikasi gambar untuk membedakan wajah yang memakai 
 - Prediksi gambar baru juga didemokan
 
 ## Contoh Gambar Prediksi
-![Contoh](images/mask.png)
+![image](https://github.com/user-attachments/assets/333693ef-d9c7-4f9e-b7f7-4e4a8a82ea0c)
 
-## Struktur Folder
+
